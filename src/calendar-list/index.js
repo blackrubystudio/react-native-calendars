@@ -43,7 +43,7 @@ class CalendarList extends Component {
   static defaultProps = {
     horizontal: false,
     calendarWidth: width,
-    calendarHeight: 'auto',
+    calendarHeight: 321,
     pastScrollRange: 50,
     futureScrollRange: 50,
     showScrollIndicator: false,
